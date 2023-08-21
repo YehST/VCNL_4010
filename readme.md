@@ -22,7 +22,7 @@
   |PB6|vcnl4010 SCL|
   |PB7|vcnl4010 SDA|
   |5V|5V|
-  |GND|FND|
+  |GND|GND|
 
 ## Reference
 - [VCNL4010 Datasheet]
