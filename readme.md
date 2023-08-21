@@ -27,4 +27,4 @@
 ## Reference
 - [VCNL4010 Datasheet]
 
-[VCNL4010 Datasheet]:chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.vishay.com/docs/83462/vcnl4010.pdf
+[VCNL4010 Datasheet]:[chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.vishay.com/docs/83462/vcnl4010.pdf](https://datasheetspdf.com/pdf-file/713822/VishaySiliconix/VCNL4010/1)
